@@ -1,0 +1,17 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+.container .home{
+    margin-top: 220px;
+}
+
+.container .video{
+    margin-top: 50px;
+    margin-bottom: 100px;
+}
+
+button {
+    height: 60px;
+}
